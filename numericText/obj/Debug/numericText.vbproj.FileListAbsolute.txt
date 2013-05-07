@@ -1,0 +1,10 @@
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\bin\Debug\numericText.exe
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\bin\Debug\numericText.pdb
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\bin\Debug\numericText.xml
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.Form1.resources
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.Resources.resources
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.vbproj.GenerateResource.Cache
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.exe
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.xml
+C:\Users\blackcat\Documents\Visual Studio 2008\Projects\numericText\numericText\obj\Debug\numericText.pdb
